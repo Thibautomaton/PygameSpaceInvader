@@ -2,4 +2,4 @@ Implementation d'un jeu SpaceInvader
 
 
 
-<img src="MouseJoint.gif" width="1450" height="720"/>
+<img src="spaceinvader.gif" width="1450" height="720"/>
